@@ -1,0 +1,51 @@
+.body {
+  height: 100vh;
+  background-image: url("email-pattern.png");
+}
+.image {
+  float: left;
+  align-items: center;
+}
+.box {
+  background-color: white;
+  border-color: black;
+  border: 2px;
+  border-radius: 1px;
+  border-style: solid;
+}
+.container {
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px;
+  
+}
+.box h1 {
+  font-family: "Times New Roman", Times, serif;
+  color: aqua;
+  padding-bottom: 50px;
+}
+.box2 {
+  height: 350px;
+  width: 350px;
+  background-color: grey;
+  float: left;
+  margin-right: 5px;
+}
+.col-md-8{
+  background-color: white;
+  border-color: black;
+  border:2px;
+  border-radius: 1px;
+}
+.container h1{
+  text-decoration: black;
+text-decoration-style:underline ;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  height: 40px;
+  border-top-width: 3px;
+  border-top-style: solid;
+  border-top-color:#3f6148;
+}
